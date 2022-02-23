@@ -1,0 +1,4 @@
+name = "Numerical_Recipes_with_Julia"
+uuid = "20cc85c1-8e8f-4cbf-9d97-5007c8bb015b"
+authors = ["wssuzb <wssuzb@gmail.com>"]
+version = "0.1.0"
